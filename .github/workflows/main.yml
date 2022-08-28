@@ -35,7 +35,7 @@ jobs:
         # Deploy pages to which branch
         PAGES_BRANCH: gh-pages
         # Generate Site from which branch
-        BUILD_FROM: master
+        BUILD_FROM: main
         # folder in which generated files are stored
         DOCS_FOLDER: release/wwwroot
     
